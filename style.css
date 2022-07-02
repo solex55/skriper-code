@@ -521,7 +521,9 @@ font-weight: bolder;
     nav .items{
       display: none;
     }
-
+	nav .latest{
+		display:none
+	 }
     nav {
       display: flex;
       justify-content: space-evenly;
