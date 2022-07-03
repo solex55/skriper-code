@@ -147,9 +147,20 @@ ul a .search{
   margin: 0 auto;
 }
 .hero-text{
-font-size: 5rem;
 text-align: center;
-margin: 1rem;
+line-height: 90px;
+    font-size: 70px;
+    margin: auto;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(
+      292.46deg,
+      #27ae60 17.79%,
+      #2f80ed 35.92%,
+      #9b51e0 54.06%,
+      #eb5757 71.08%,
+      #f2994a 87.36%
+    );
 }
 .progs{
   width: 60%;
